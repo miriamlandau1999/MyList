@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day 24", "day 24\day 24.csproj", "{6A3B41CA-85CC-43CE-90B5-F170E7599057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teacher's Snippet", "Teacher's Snippet\Teacher's Snippet.csproj", "{32D3DD65-146E-439A-B8AE-E83FE230BCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3B41CA-85CC-43CE-90B5-F170E7599057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3B41CA-85CC-43CE-90B5-F170E7599057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3B41CA-85CC-43CE-90B5-F170E7599057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3B41CA-85CC-43CE-90B5-F170E7599057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D3DD65-146E-439A-B8AE-E83FE230BCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D3DD65-146E-439A-B8AE-E83FE230BCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D3DD65-146E-439A-B8AE-E83FE230BCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D3DD65-146E-439A-B8AE-E83FE230BCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
